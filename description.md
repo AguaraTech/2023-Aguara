@@ -9,16 +9,16 @@ Hola! Queremos invitarte a nuestra conferencia sobre software libre y de código
 
  El software abierto tiene muchos beneficios para las empresas. Aquí hay algunos:
 
-    1. Rentable: dado que el software abierto es de libre acceso, las empresas pueden ahorrar dinero en tarifas de licencias y costos de desarrollo de software.
+- Rentable: dado que el software abierto es de libre acceso, las empresas pueden ahorrar dinero en tarifas de licencias y costos de desarrollo de software.
 
-    2. Personalizable: el software abierto permite a las empresas modificar el código fuente para satisfacer sus necesidades específicas. 
+- Personalizable: el software abierto permite a las empresas modificar el código fuente para satisfacer sus necesidades específicas. 
     Esta flexibilidad no es posible con el software propietario.
 
-    3. Seguridad: el software abierto a menudo tiene la ventaja de una gran base de usuarios que contribuyen a las pruebas y los informes de seguridad.  Esto asegura una rápida identificación y reparación de cualquier vulnerabilidad.
+- Seguridad: el software abierto a menudo tiene la ventaja de una gran base de usuarios que contribuyen a las pruebas y los informes de seguridad.  Esto asegura una rápida identificación y reparación de cualquier vulnerabilidad.
 
-    4. Colaboración: el software abierto fomenta la colaboración dentro y entre organizaciones, lo que conduce a una mayor eficiencia e innovación.
+- Colaboración: el software abierto fomenta la colaboración dentro y entre organizaciones, lo que conduce a una mayor eficiencia e innovación.
 
-    5. Soporte: el software abierto tiene una comunidad en línea grande y activa que brinda soporte, resolución de problemas y orientación.
+- Soporte: el software abierto tiene una comunidad en línea grande y activa que brinda soporte, resolución de problemas y orientación.
 
  Sin embargo, también existen desafíos asociados con el software abierto. 
  Algunos de los desafíos incluyen problemas de compatibilidad, soporte y capacitación.
