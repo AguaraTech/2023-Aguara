@@ -48,11 +48,11 @@
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:zoom="0.54895468"
-     inkscape:cx="810.63158"
-     inkscape:cy="637.5754"
+     inkscape:cx="811.5424"
+     inkscape:cy="783.30692"
      inkscape:window-width="1920"
      inkscape:window-height="1013"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
@@ -66,7 +66,8 @@
      inkscape:label="Image"
      id="g1161"
      transform="translate(-1667.0534,-252.59052)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.34579;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="rect46328"
@@ -96,13 +97,38 @@
        xml:space="preserve"
        id="text8991"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Monofur Nerd Font Mono';-inkscape-font-specification:'Monofur Nerd Font Mono Bold';text-align:center;white-space:pre;shape-inside:url(#rect8993)" />
+    <g
+       id="g26961"
+       style="display:inline">
+      <path
+         style="opacity:0.51;fill:#3d1e24;fill-opacity:1;stroke:none;stroke-width:1.38847;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         d="m 2840.8429,642.77278 91.419,52.78336 v -52.78336 z"
+         id="path46332" />
+      <g
+         id="g48069"
+         transform="matrix(1.0426508,0,0,1.0426508,-90.046531,335.10712)">
+        <path
+           style="opacity:0.51;fill:#3d1e24;fill-opacity:1;stroke:none;stroke-width:1.33167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+           d="m 1737.5703,1062.4416 v 50.6241 h 87.6794 z"
+           id="path46374" />
+        <path
+           style="opacity:0.51;fill:#3d1e24;fill-opacity:1;stroke:none;stroke-width:1.33167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+           d="m 2898.6775,1025.3862 -50.6214,87.6795 h 50.6214 z"
+           id="path46372" />
+        <path
+           id="path46370"
+           style="opacity:0.83;fill:#3d1e24;fill-opacity:1;stroke:none;stroke-width:1.33167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+           d="m 1964.9043,315.89453 -208.1309,360.49414 v 384.33983 l 50.1094,28.9297 h 1043.6621 l 28.9297,-50.1094 V 344.82422 l -50.1094,-28.92969 z" />
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Image 2"
      transform="translate(-1667.0534,-252.59052)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:100.009px;line-height:1.25;font-family:'Monofur Nerd Font';-inkscape-font-specification:'Monofur Nerd Font Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.50023"
@@ -153,83 +179,6 @@
          y="316.59946"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Monofur Nerd Font';-inkscape-font-specification:'Monofur Nerd Font';fill:#3d1e24;fill-opacity:1;stroke-width:1.15779"
          id="tspan66979">Resistencia Chaco</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Image 1"
-     transform="translate(-1667.0534,-252.59052)"
-     style="display:inline">
-    <g
-       id="g26961">
-      <path
-         style="opacity:0.51;fill:#3d1e24;fill-opacity:1;stroke:none;stroke-width:1.38847;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         d="m 2840.8429,642.77278 91.419,52.78336 v -52.78336 z"
-         id="path46332" />
-      <g
-         id="g48069"
-         transform="matrix(1.0426508,0,0,1.0426508,-90.046531,335.10712)">
-        <path
-           style="opacity:0.51;fill:#3d1e24;fill-opacity:1;stroke:none;stroke-width:1.33167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-           d="m 1737.5703,1062.4416 v 50.6241 h 87.6794 z"
-           id="path46374" />
-        <path
-           style="opacity:0.51;fill:#3d1e24;fill-opacity:1;stroke:none;stroke-width:1.33167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-           d="m 2898.6775,1025.3862 -50.6214,87.6795 h 50.6214 z"
-           id="path46372" />
-        <path
-           id="path46370"
-           style="opacity:0.83;fill:#3d1e24;fill-opacity:1;stroke:none;stroke-width:1.33167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-           d="m 1964.9043,315.89453 -208.1309,360.49414 v 384.33983 l 50.1094,28.9297 h 1043.6621 l 28.9297,-50.1094 V 344.82422 l -50.1094,-28.92969 z" />
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.5602px;line-height:1.25;font-family:'Monofurbold Nerd Font';-inkscape-font-specification:'Monofurbold Nerd Font';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.88902"
-       x="1975.2111"
-       y="787.65039"
-       id="text46354"
-       inkscape:export-filename="/home/ariadne/Documentos/Eventos/Propio/AguaraTech/graphics/CFP VERTICAL.png"
-       inkscape:export-xdpi="96.366798"
-       inkscape:export-ydpi="96.366798"><tspan
-         sodipodi:role="line"
-         x="1975.2111"
-         y="787.65039"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Monofurbold Nerd Font';-inkscape-font-specification:'Monofurbold Nerd Font';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.88902"
-         id="tspan15716">Liberarse de las </tspan><tspan
-         sodipodi:role="line"
-         x="1975.2111"
-         y="882.10065"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Monofurbold Nerd Font';-inkscape-font-specification:'Monofurbold Nerd Font';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.88902"
-         id="tspan58204">Big Tech</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.7009px;line-height:1.25;font-family:'Monofuritalic Nerd Font';-inkscape-font-specification:'Monofuritalic Nerd Font';text-align:start;text-anchor:start;white-space:pre;inline-size:966.561;fill:#ffffff;stroke-width:1.54944"
-       x="481.05481"
-       y="543.73322"
-       id="text46358"
-       transform="matrix(1.0519206,0,0,1.0519206,1358.8541,460.14103)"
-       inkscape:export-filename="/home/ariadne/Documentos/Eventos/Propio/AguaraTech/graphics/CFP VERTICAL.png"
-       inkscape:export-xdpi="96.366798"
-       inkscape:export-ydpi="96.366798"><tspan
-         x="481.05481"
-         y="543.73322"
-         id="tspan165873">Veremos alternativas al ecosistema de </tspan><tspan
-         x="481.05481"
-         y="607.1093"
-         id="tspan165875">Google. Veremos redes sociales libres </tspan><tspan
-         x="481.05481"
-         y="670.4854"
-         id="tspan165877">y autogestionadas gracias al </tspan><tspan
-         x="481.05481"
-         y="733.8615"
-         id="tspan165879">Fediverso, así como también de las </tspan><tspan
-         x="481.05481"
-         y="797.2376"
-         id="tspan165881">posibilidades de tener nubes privadas </tspan><tspan
-         x="481.05481"
-         y="860.6137"
-         id="tspan165883">o autogestivas.</tspan></text>
     <image
        width="222.32454"
        height="292.92395"
@@ -238,7 +187,71 @@
        id="image48432"
        x="-1915.4368"
        y="603.76868"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Image 1"
+     transform="translate(-1667.0534,-252.59052)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.5602px;line-height:1.25;font-family:'Monofurbold Nerd Font';-inkscape-font-specification:'Monofurbold Nerd Font';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.88902"
+       x="1975.2111"
+       y="741.65039"
+       id="text46354"
+       inkscape:export-filename="/home/ariadne/Documentos/Eventos/Propio/AguaraTech/graphics/CFP VERTICAL.png"
+       inkscape:export-xdpi="96.366798"
+       inkscape:export-ydpi="96.366798"><tspan
+         sodipodi:role="line"
+         x="1975.2111"
+         y="741.65039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Monofurbold Nerd Font';-inkscape-font-specification:'Monofurbold Nerd Font';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.88902"
+         id="tspan15716">Liberarse de las </tspan><tspan
+         sodipodi:role="line"
+         x="1975.2111"
+         y="836.10065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Monofurbold Nerd Font';-inkscape-font-specification:'Monofurbold Nerd Font';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.88902"
+         id="tspan58204">Big Tech</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.1659px;line-height:1.2;font-family:'Monofuritalic Nerd Font';-inkscape-font-specification:'Monofuritalic Nerd Font';text-align:start;text-anchor:start;white-space:pre;inline-size:1024.08;fill:#ffffff;stroke-width:1.54944"
+       x="481.05481"
+       y="543.73322"
+       id="text46358"
+       transform="matrix(1.0519206,0,0,1.0519206,1305.1265,353.51215)"
+       inkscape:export-filename="/home/ariadne/Documentos/Eventos/Propio/AguaraTech/graphics/CFP VERTICAL.png"
+       inkscape:export-xdpi="96.366798"
+       inkscape:export-ydpi="96.366798"><tspan
+         x="481.05481"
+         y="543.73322"
+         id="tspan21192">  Veremos alternativas al ecosistema de </tspan><tspan
+         x="481.05481"
+         y="601.53232"
+         id="tspan21194">Google y Meta. Veremos redes sociales </tspan><tspan
+         x="481.05481"
+         y="659.3314"
+         id="tspan21196">libres y autogestionadas gracias al </tspan><tspan
+         x="481.05481"
+         y="717.13047"
+         id="tspan21198">Fediverso, así como también de las </tspan><tspan
+         x="481.05481"
+         y="774.92954"
+         id="tspan21200">posibilidades de tener nubes privadas o </tspan><tspan
+         x="481.05481"
+         y="832.72861"
+         id="tspan21202">autogestivas. Explicaremos los motivos que </tspan><tspan
+         x="481.05481"
+         y="890.52768"
+         id="tspan21204">dan origen a esta problemática, utilizando </tspan><tspan
+         x="481.05481"
+         y="948.32676"
+         id="tspan21206">un abordaje social, sumando también </tspan><tspan
+         x="481.05481"
+         y="1006.1258"
+         id="tspan21208">experiencias personales.</tspan></text>
     <image
        width="396.5463"
        height="394.026"
@@ -258,29 +271,29 @@
        transform="matrix(2.0435119,0,0,1.9104968,-2170.8475,-531.59114)"><tspan
          x="2279.7917"
          y="515.57123"
-         id="tspan165887"><tspan
+         id="tspan21212"><tspan
    style="font-family:'Monofurbold Nerd Font';-inkscape-font-specification:'Monofurbold Nerd Font'"
-   id="tspan165885">Matías Demarchi:</tspan><tspan
+   id="tspan21210">Matías Demarchi:</tspan><tspan
    y="515.57123"
-   id="tspan165889"> </tspan></tspan><tspan
+   id="tspan21214"> </tspan></tspan><tspan
          x="2279.7917"
          y="539.19665"
-         id="tspan165893"><tspan
+         id="tspan21218"><tspan
    style="font-family:'Monofuritalic Nerd Font';-inkscape-font-specification:'Monofuritalic Nerd Font'"
-   id="tspan165891">Desarrollador full-stack</tspan><tspan
+   id="tspan21216">Desarrollador full-stack</tspan><tspan
    y="539.19665"
-   id="tspan165895"> </tspan></tspan><tspan
+   id="tspan21220"> </tspan></tspan><tspan
          x="2279.7917"
          y="562.82207"
-         id="tspan165899"><tspan
+         id="tspan21224"><tspan
    style="font-family:'Monofuritalic Nerd Font';-inkscape-font-specification:'Monofuritalic Nerd Font'"
-   id="tspan165897">Formando la Comunidad de</tspan><tspan
+   id="tspan21222">Formando la Comunidad de</tspan><tspan
    y="562.82207"
-   id="tspan165901"> </tspan></tspan><tspan
+   id="tspan21226"> </tspan></tspan><tspan
          x="2279.7917"
          y="586.4475"
-         id="tspan165905"><tspan
+         id="tspan21230"><tspan
            style="font-family:'Monofuritalic Nerd Font';-inkscape-font-specification:'Monofuritalic Nerd Font'"
-           id="tspan165903">Programadores de Gualeguay</tspan></tspan></text>
+           id="tspan21228">Programadores de Gualeguay</tspan></tspan></text>
   </g>
 </svg>
